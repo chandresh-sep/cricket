@@ -72,6 +72,29 @@ h5 {
 
 h4 {
     font-size: 20px;
-    color:cornflowerblue;
+    color:red;
     font-family:cursive;
+}
+
+
+.links:hover {
+    background-color: aqua;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.article:hover {
+    color:fuchsia;
+}
+
+h4:hover{
+    font-size: 25px;
+    color: cornflowerblue;
 }
